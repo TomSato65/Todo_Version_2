@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> ToDo Version 2 </h1>
 
 <p align="center">
 Programa gratuito, apresentado como aula no canal Hora de Codar de Matheus Battisti no Youtube. <br/>
